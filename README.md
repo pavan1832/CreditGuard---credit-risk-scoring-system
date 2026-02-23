@@ -3,6 +3,7 @@
 > **Production-grade loan default prediction system built for fintech lending operations.**  
 > Demonstrates end-to-end ML engineering: business problem framing → feature engineering → model training → explainability → deployment.
 
+The project is live here: https://creditguard---credit-risk-scoring-system-mzyegjpydwsygqcxtzktn.streamlit.app/
 ---
 
 ## 1. Business Problem
