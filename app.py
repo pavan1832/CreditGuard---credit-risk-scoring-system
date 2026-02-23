@@ -29,6 +29,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("🏦 CreditGuard — Loan Default Risk Scoring")
+st.title("Developed By Lokpavan P")
 st.markdown("**Production-grade credit risk scoring** | Fintech lending operations")
 st.markdown("---")
 
