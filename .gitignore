@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.streamlit/
+data/raw/
+data/processed/*.csv
+*.joblib
+.DS_Store
